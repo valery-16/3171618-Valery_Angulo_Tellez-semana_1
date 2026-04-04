@@ -1,4 +1,4 @@
-# Proyecto Modelado de Entidades - Veterinaria
+# Proyecto semana 1 - Veterinaria Modelado de Entidades
 
 ## Dominio
 
@@ -28,3 +28,9 @@ filterByStatus → filtrar pacientes por estado
 ## Tecnologías
 
 TypeScript con tipado estricto
+
+## Autor 
+
+Valery Angulo Tellez
+
+Proyecto desarrollado como parte de la Semana 01.
